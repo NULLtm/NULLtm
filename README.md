@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @NULLtm
-- 👀 I’m interested in studying and developing
-- 🌱 I’m currently working on developing Cornbear -- Autograding Assistant
 - 📫 How to reach me: nulltm01@gmail.com
 
 <!---
